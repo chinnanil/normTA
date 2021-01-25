@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313529048120",
+    "project_id": "normta-14b59",
+    "storage_bucket": "normta-14b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313529048120:android:f04c4c1816df68aa6f5acd",
+        "android_client_info": {
+          "package_name": "com.normta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313529048120-kksafil5qabtbkcg2807u4e6c2g8q4lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZbvK13VS0OGc0Ye8i2o1twiSknWAhno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313529048120-kksafil5qabtbkcg2807u4e6c2g8q4lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
